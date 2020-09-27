@@ -47,11 +47,11 @@
           </div>
         </div>
         <!-- END lines -->
-      
+
       <nav class="unslate_co--site-nav site-nav-target">
 
         <div class="container">
-        
+
           <div class="row align-items-center justify-content-between text-left">
             <div class="col-md-5 text-right">
               <ul class="site-nav-ul js-clone-nav text-left d-none d-lg-inline-block">
@@ -86,9 +86,9 @@
       <div class="cover-v1 jarallax" style="background-image: url('images/cover_bg_2.jpg');" id="home-section">
         <div class="container">
           <div class="row align-items-center">
-              
+
             <div class="col-md-7 mx-auto text-center">
-              <h1 class="heading gsap-reveal-hero">Unfold</h1>
+              <h1 class="heading gsap-reveal-hero">Unfold ASDADSA</h1>
               <h2 class="subheading gsap-reveal-hero">I’m Glenn Chapman Hoyer A Product Designer Based In San Francisco</h2>
             </div>
 
@@ -109,8 +109,8 @@
 
       <div class="unslate_co--section" id="portfolio-section">
         <div class="container">
-          
-          
+
+
           <div class="relative"><div class="loader-portfolio-wrap"><div class="loader-portfolio"></div></div> </div>
           <div id="portfolio-single-holder"></div>
 
@@ -121,7 +121,7 @@
             </div>
 
 
-            
+
             <div id="posts" class="row gutter-isotope-item">
               <div class="item web branding col-sm-6 col-md-6 col-lg-4 isotope-mb-2">
                 <a href="portfolio-single-1.html" class="portfolio-item ajax-load-page isotope-item gsap-reveal-img" data-id="1">
@@ -242,7 +242,7 @@
               </div>
 
             </div>
-            
+
           </div>
 
 
@@ -272,14 +272,14 @@
 
       <div class="unslate_co--section" id="about-section">
         <div class="container">
-          
+
           <div class="section-heading-wrap text-center mb-5">
             <h2 class="heading-h2 text-center divider"><span class="gsap-reveal">About Me</span></h2>
             <span class="gsap-reveal">
             <img src="images/divider.png" alt="divider" width="76">
             </span>
           </div>
-          
+
 
           <div class="row mt-5 justify-content-between">
             <div class="col-lg-7 mb-5 mb-lg-0">
@@ -313,7 +313,7 @@
                 </div>
                 <h3>Digital <br> Strategy</h3>
                 <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-              </div> 
+              </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="feature-v1" data-aos="fade-up" data-aos-delay="100">
@@ -322,7 +322,7 @@
                 </div>
                 <h3>Web <br> Design</h3>
                 <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-              </div> 
+              </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="feature-v1" data-aos="fade-up" data-aos-delay="200">
@@ -331,7 +331,7 @@
                 </div>
                 <h3>User <br> Experience</h3>
                 <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-              </div> 
+              </div>
             </div>
 
             <div class="col-md-6 col-lg-4 mb-4">
@@ -341,7 +341,7 @@
                 </div>
                 <h3>Web <br> Development</h3>
                 <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-              </div> 
+              </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="feature-v1" data-aos="fade-up" data-aos-delay="100">
@@ -350,7 +350,7 @@
                 </div>
                 <h3>WordPress <br> Solutions</h3>
                 <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-              </div> 
+              </div>
             </div>
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="feature-v1" data-aos="fade-up" data-aos-delay="200">
@@ -359,7 +359,7 @@
                 </div>
                 <h3>Mobile <br> Applications</h3>
                 <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. </p>
-              </div> 
+              </div>
             </div>
 
           </div>
@@ -433,7 +433,7 @@
                   Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
                 </blockquote>
               </div>
-              
+
               <div class="testimonial-author-info">
                 <img src="images/person_man_1.jpg" alt="Image">
                 <h3>Eric Ingram</h3>
@@ -450,7 +450,7 @@
                   Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
                 </blockquote>
               </div>
-              
+
               <div class="testimonial-author-info">
                 <img src="images/person_man_2.jpg" alt="Image">
                 <h3>Ryan Mullins</h3>
@@ -467,7 +467,7 @@
                   Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
                 </blockquote>
               </div>
-              
+
               <div class="testimonial-author-info">
                 <img src="images/person_woman_1.jpg" alt="Image">
                 <h3>Erica Miller</h3>
@@ -488,7 +488,7 @@
             <span class="gsap-reveal"><img src="images/divider.png" alt="divider" width="76"></span>
           </div>
 
-          
+
           <div class="row gutter-v4 align-items-stretch">
             <div class="col-sm-6 col-md-6 col-lg-8 blog-post-entry" data-aos="fade-up" data-aos-delay="0">
 
@@ -572,7 +572,7 @@
 
 
           <div class="row justify-content-between">
-            
+
             <div class="col-md-6">
               <form method="post" class="form-outline-style-v1" id="contactForm">
                 <div class="form-group row mb-0">
@@ -597,7 +597,7 @@
                     </div>
                   </div>
               </form>
-              <div id="form-message-warning" class="mt-4"></div> 
+              <div id="form-message-warning" class="mt-4"></div>
               <div id="form-message-success">
                 Your message was sent, thank you!
               </div>
@@ -625,10 +625,10 @@
         </div>
       </div>
       </div> <!-- END .unslate_co-site-inner -->
-      
+
     </div>
 
-    
+
     <!-- Loader -->
     <div id="unslate_co--overlayer"></div>
     <div class="site-loader-wrap">
