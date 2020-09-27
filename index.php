@@ -88,8 +88,8 @@
           <div class="row align-items-center">
 
             <div class="col-md-7 mx-auto text-center">
-              <h1 class="heading gsap-reveal-hero">Unfold ASDADSA</h1>
-              <h2 class="subheading gsap-reveal-hero">I’m Glenn Chapman Hoyer A Product Designer Based In San Francisco</h2>
+              <h1 class="heading gsap-reveal-hero">Mustafa Işık</h1>
+              <h2 class="subheading gsap-reveal-hero">I’m Mustafa Işık</h2>
             </div>
 
           </div>
